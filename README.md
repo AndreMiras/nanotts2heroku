@@ -1,2 +1,3 @@
-# nanotts2heroku
-Deploys NanoTTS to Heroku
+# NanoTTS to Heroku
+
+Since NanoTTS is not available on Heroku, we build our own patched one.
