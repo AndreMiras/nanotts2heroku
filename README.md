@@ -2,6 +2,8 @@
 
 Since NanoTTS is not available on Heroku, we build our own patched one.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## Build
 Build a copy on your own Heroku instance using the `build-nanotts.sh` in a one-off Dyno:
 ```
