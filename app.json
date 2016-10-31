@@ -1,0 +1,14 @@
+{
+  "name": "NanoTTS to Heroku",
+  "description": "Deploys NanoTTS to Heroku",
+  "repository": "https://github.com/AndreMiras/nanotts2heroku",
+  "keywords": ["NanoTTS", "Build"],
+  "buildpacks": [
+    {
+      "url": "http://github.com/ryandotsmith/null-buildpack.git"
+    },
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-apt"
+    }
+  ]
+}
